@@ -1,6 +1,6 @@
 <?php
-    $servidor = "localhost";
-    $usuario = "root";
+    $servidor = "puerto de la BD";
+    $usuario = "pon el usuario";
     $nomBaseDatos = "project";
     $password= "";
     // Conectando a la base de datos
