@@ -1,5 +1,5 @@
 <?php
-    $servidor = "puerto de la BD";
+    $servidor = "colocar el puerto de en donde esta la base de datos";
     $usuario = "pon el usuario";
     $nomBaseDatos = "project";
     $password= "";
